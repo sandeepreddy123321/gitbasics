@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/internship/firstproject/Firstapp/templates/html/display2.html",
+		"/D/internship/firstproject/Firstapp/templates/html/register2.html",
+		"/D/internship/firstproject/Resturant/RestApp/templates/app/home.html",
+		"/D/internship/firstproject/Resturant/RestApp/views.py",
+		"/D/internship/firstproject/Resturant/RestApp/urls.py",
+		"/D/internship/firstproject/Resturant/Resturant/urls.py",
+		"/D/internship/firstproject/Resturant/RestApp/migrations/app/home.html",
+		"/D/internship/firstproject/Resturant/Resturant/settings.py",
+		"/D/internship/firstproject/Firstapp/templates/html/sview.html",
+		"/D/internship/firstproject/Firstapp/models.py",
+		"/D/internship/firstproject/Firstapp/templates/html/display1.html",
+		"/D/internship/firstproject/Firstapp/admin.py",
+		"/D/internship/firstproject/Firstapp/templates/html/sandeep.html",
+		"/D/internship/firstproject/Firstapp/templates/html/logincss.html",
+		"/D/internship/firstproject/Firstapp/templates/html/btregst.html",
+		"/D/internship/firstproject/Firstapp/templates/html/newreg.html",
+		"/D/internship/firstproject/Firstapp/templates/html/loginpage.html",
+		"/D/internship/firstproject/Firstapp/templates/html/newlog.html",
+		"/C/Users/Dell/Downloads/IMAGE-SLIDER/home.html",
+		"/D/internship/firstproject/Firstapp/templates/html/login display.html",
+		"/D/internship/firstproject/Firstapp/templates/html/registration.html",
+		"/D/internship/firstproject/Firstapp/templates/html/registration display.html",
+		"/D/internship/firstproject/Firstapp/templates/html/sampleboot.html",
+		"/D/internship/firstproject/Firstapp/templates/html/display.html",
+		"/D/internship/firstproject/Firstapp/templates/html/myform.html",
+		"/D/internship/firstproject/Firstapp/static/images/djangologo.jpg",
+		"/D/internship/firstproject/Firstapp/static/js/javascript.js",
+		"/D/internship/firstproject/Firstapp/templates/html/information.html",
+		"/D/internship/firstproject/Firstapp/templates/html/internalJS.html",
+		"/D/internship/firstproject/Firstapp/templates/html/std.html",
+		"/D/internship/firstproject/Firstapp/static/css/sample.css",
+		"/D/internship/firstproject/Firstapp/templates/html/employ01.html",
+		"/D/internship/firstproject/Firstapp/templates/html/employ.html",
+		"/D/internship/firstproject/Firstapp/template/html/ytname.html",
+		"/D/internship/firstproject/Firstapp/template/html/internalJS.html",
+		"/D/internship/firstproject/Firstapp/template/html/sam.html",
+		"/D/internship/firstproject/Firstapp/template/html/ytnames.html",
+		"/D/internship/firstproject/Firstapp/template/html/idname.html",
+		"/D/internship/firstproject/Firstapp/template/html/sub.html",
+		"/D/internship/firstproject/Firstapp/template/html/sample.html",
+		"/D/internship/firstproject/Firstapp/templates/html/sample.html",
+		"/D/internship/firstproject/firstproject/urls.py",
+		"/D/internship/firstproject/Firstapp/views.py",
+		"/D/internship/firstproject/firstproject/settings.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "btregst.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
